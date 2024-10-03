@@ -1,4 +1,5 @@
 #!/bin/bash
+
 from substrateinterface import SubstrateInterface, Keypair
 import time
 
