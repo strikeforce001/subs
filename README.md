@@ -1,6 +1,5 @@
-# subs
+# Substrate nodes
 ## Check nodes from RPC request
-This code works as follows:
 
 ##  1.	Node connection: The code connects to a Kusama (or Polkadot) node using WebSocket.
 ## 	2.	Fetching block information: In each loop, the code retrieves the latest block header (block number and hash).
